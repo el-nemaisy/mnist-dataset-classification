@@ -1,2 +1,2 @@
 # mnist-dataset-classification
-mnist dataset classification project 2
+This Notebnook is part of image manipulation tutorial made by me as a practice
